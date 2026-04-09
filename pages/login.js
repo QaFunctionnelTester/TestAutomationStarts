@@ -1,4 +1,4 @@
-exports.LoginPage = class LoginPage {
+eeeeeexports.LoginPage = class LoginPage {
 
     constructor(page) {
 
